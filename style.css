@@ -1,0 +1,29 @@
+h1
+{
+	color: #F770E5;
+	font-family: sans-serif;
+}
+h2
+{
+	font-family: cursive;
+	color: #FF8ECC;
+}
+#catalogue
+{
+	width: 600px;
+	height: auto;
+}
+#pic
+{
+	width: 650px;
+	height: auto;
+}
+#lien
+{
+	width: 45px;
+	height: auto;
+}
+body
+{
+	background-color: #FFE791;	
+}
